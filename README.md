@@ -31,7 +31,7 @@
 ### 🛠 Tech Stack
 | Python | SQL | C++ | Adobe | MatCAD |
 |--------|-----|-----|-------|--------|
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![Adobe](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg) | ⚙️ |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![Adobe](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg) | ⚙️ |
 
 ---
 
