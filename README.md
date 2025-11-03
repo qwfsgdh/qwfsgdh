@@ -31,7 +31,9 @@
 ### 🛠 Tech Stack
 | Python | SQL | C++ | Adobe | MatCAD |
 |--------|-----|-----|-------|--------|
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![SQL](https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png) | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![Adobe](https://www.vhv.rs/dpng/d/446-4462159_adobe-logo-transparent-hd-png-download.png) | ⚙️ |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![SQL](https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png) | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![Adobe](
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
+          ) | ⚙️ |
 
 ---
 
