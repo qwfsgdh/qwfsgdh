@@ -29,10 +29,9 @@
 ---
 
 ### 🛠 Tech Stack
-| Python | SQL | C++ | Adobe | MatCAD |
-|--------|-----|-----|-------|--------|
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![Adobe](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg) | ⚙️ |
-
+| Python | MySQL (SQL) | C++ | Adobe Illustrator | PTC Mathcad |
+|--------|-------------|-----|-------------------|-------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" alt="Adobe Illustrator"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/PTC_Mathcad_logo.png" width="40" alt="Mathcad"/> |
 ---
 
 _“Engineering is the closest thing to magic that exists in the world.”_
